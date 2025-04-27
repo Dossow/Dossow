@@ -12,7 +12,7 @@ Este proyecto automatiza la recolección de información de una red Cisco simula
 - Python (Netmiko, TextFSM)
 - Docker
 - Git
-- GNS3 + VM Ubuntu Server
+- GNS3 Server 
 
 ## 🖥️ Requisitos de la topología (GNS3)
 - 4 dispositivos Cisco (routers y/o switches).
