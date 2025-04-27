@@ -19,7 +19,7 @@ Este proyecto automatiza la recolección de información de una red Cisco simula
 - Acceso vía SSH/Telnet habilitado.
 
 ## 📂 Estructura del proyecto
-inventario-red-cisco/ ├── docker/ │ └── Dockerfile ├── scripts/ │ ├── connect_devices.py │ ├── parse_outputs.py │ └── generate_report.py ├── requirements.txt ├── README.md └── .gitignore
+Networking-Labs/ ├── docker/ │ └── Dockerfile ├── scripts/ │ ├── connect_devices.py │ ├── parse_outputs.py │ └── generate_report.py ├── requirements.txt ├── README.md └── .gitignore
 
 
 ## ⚙️ ¿Como descargo el proyecto?
