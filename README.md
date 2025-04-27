@@ -41,7 +41,7 @@ docker build -t Networking-Labs .
 ```bash
 docker run --rm -v $(pwd)/scripts:/app Networking-Labs python connect_devices.py
 ```
-- Los reportes se generaran en el directorio /reports
+- Los reportes se generaran en el directorio  ```/reports ```
 
   ## 🔐 Variables de entorno
 
