@@ -39,7 +39,7 @@ docker build -t Networking-Labs .
 3. 🐳 Ejecuta el contenedor
 
 ```bash
-docker run --rm -v $(pwd)/scripts:/app inventario-red python connect_devices.py
+docker run --rm -v $(pwd)/scripts:/app Networking-Labs python connect_devices.py
 ```
 - Los reportes se generaran en el directorio /reports
 
